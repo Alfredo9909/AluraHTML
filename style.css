@@ -1,0 +1,43 @@
+
+  header{
+    font-style: oblique;
+  }
+  p{
+    text-align: center;
+
+  }
+  h1{
+    text-align: center;
+  }
+ body{
+    background: #CCCCCC;
+    padding: 20px;
+ }
+em strong{
+    color: brown;
+}
+#mision{
+    font-size: 20px;
+}
+.one{
+  background: #ffffff;
+}
+h2{
+  text-align: center;
+}
+.two{
+  background:#ffffff;
+  padding: 30px;
+}
+#hola{
+  font-style: italic;
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  margin-right: 15%;
+}
+
+#lol{
+  width: 50%;
+
+}
